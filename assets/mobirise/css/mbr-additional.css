@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+
+#dropdown-menu-2btn-k .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-k .navbar-brand a {
+  font-size: 24px;
+}
+#dropdown-menu-2btn-k .nav .link,
+#dropdown-menu-2btn-k .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-k .navbar,
+#dropdown-menu-2btn-k .dropdown-menu {
+  background: #98c24a;
+}
+#dropdown-menu-2btn-k .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-k .dropdown-menu a:hover,
+#dropdown-menu-2btn-k .dropdown-menu a:focus {
+  background: #8eb93e;
+}
+#dropdown-menu-2btn-k .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-2btn-k .btn {
+  font-size: 18px;
+}
+#header1-7 H1 {
+  color: #ffffff;
+  font-size: 72px;
+}
+#header1-7 P {
+  color: #ffffff;
+  font-size: 22px;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#header1-7 I {
+  font-size: 30px;
+  color: #ffffff;
+}
+#social-buttons2-f .mbr-section-title {
+  font-size: 25px;
+  color: #ffffff;
+}
+#contacts3-i SPAN {
+  font-size: 18px;
+}
+#contacts3-i .btn {
+  font-size: 18px;
+}
+#footer1-w P {
+  color: #8f8f8f;
+}
